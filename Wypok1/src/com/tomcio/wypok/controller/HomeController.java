@@ -43,4 +43,5 @@ public class HomeController extends HttpServlet {
         });
         request.setAttribute("discoveries", allDiscoveries);
     }
+    //commit test
 }
